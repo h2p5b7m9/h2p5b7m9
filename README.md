@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ignacio
-- 👀 I’m interested in python.
+- 👀 I’m a software developer.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on python AI projects.
 - 📫 How to reach me ...

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Macipe</h1>
 <h3 align="center">A software analyst developer from Barcelona</h3>
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me: ignaciomacipe@gmail.com</h3>
 <p align="left">
 </p>
 

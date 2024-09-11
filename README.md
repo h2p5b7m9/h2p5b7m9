@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @h2p5b7m9
+- 👋 Hi, I’m Ignacio
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on python  AI projects.
+- 💞️ I’m looking to collaborate on python AI projects.
 - 📫 How to reach me ...
 
 <!---

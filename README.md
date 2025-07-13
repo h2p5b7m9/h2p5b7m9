@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Macipe</h1>
-<h3 align="center">A software analyst developer from Barcelona</h3>
+<h3 align="center">A program analyst developer from Barcelona</h3>
 
 - 📫 How to reach me **ignaciomacipe@gmail.com**
 
